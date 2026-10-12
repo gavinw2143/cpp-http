@@ -1,6 +1,6 @@
-# simple_http
+# cpp-http
 
-A small C++ HTTP/1.1 server + client with:
+A compact C++ HTTP/1.1 server + client with:
 - cross-platform socket wrapper
 - HTTP parsing + routing
 - static file serving
